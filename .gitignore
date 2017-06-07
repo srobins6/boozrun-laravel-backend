@@ -1,0 +1,9 @@
+
+
+.env
+/node_modules/
+/resources/boozrunweb/
+/vendor/
+/storage/logs/
+/storage/framework/
+/.idea/

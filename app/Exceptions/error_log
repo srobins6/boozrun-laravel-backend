@@ -1,0 +1,4 @@
+[23-Feb-2016 04:46:41 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/brretail/public_html/boozrun/app/Exceptions/Handler.php on line 13
+[23-Feb-2016 10:50:03 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/brretail/public_html/boozrun/app/Exceptions/Handler.php on line 13
+[23-Feb-2016 16:50:58 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/brretail/public_html/boozrun/app/Exceptions/Handler.php on line 13
+[23-Feb-2016 22:50:08 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home1/brretail/public_html/boozrun/app/Exceptions/Handler.php on line 13

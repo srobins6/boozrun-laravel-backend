@@ -1,0 +1,23 @@
+@import "bootstrap/bootstrap";
+@import "font-awesome/font-awesome";
+
+.grid-panel {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  border: 0;
+  box-shadow: 1px 0 0 0 $panel-default-border,
+  0 1px 0 0 $panel-default-border,
+  1px 1px 0 0 $panel-default-border,
+  1px 0 0 0 $panel-default-border inset,
+  0 1px 0 0 $panel-default-border inset;
+}
+
+.grid-panel > * {
+  border: 0;
+  box-shadow: 1px 0 0 0 $panel-default-border,
+  0 1px 0 0 $panel-default-border,
+  1px 1px 0 0 $panel-default-border,
+  1px 0 0 0 $panel-default-border inset,
+  0 1px 0 0 $panel-default-border inset;
+}

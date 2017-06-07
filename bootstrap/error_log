@@ -1,0 +1,4 @@
+[09-Feb-2016 13:47:28 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home1/brretail/public_html/boozrun/bootstrap/app.php on line 14
+[09-Feb-2016 20:06:23 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home1/brretail/public_html/boozrun/bootstrap/app.php on line 14
+[10-Feb-2016 02:25:18 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home1/brretail/public_html/boozrun/bootstrap/app.php on line 14
+[11-Feb-2016 00:42:51 America/Denver] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home1/brretail/public_html/boozrun/bootstrap/app.php on line 14
